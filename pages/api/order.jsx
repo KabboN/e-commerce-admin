@@ -1,6 +1,6 @@
 // pages/api/orders.js
 
-import ordersData from '../../data/ordersdata.json';
+import ordersData from '../../data/orderdata.json';
 
 export default function handler(req, res) {
   if (req.method === 'GET') {
