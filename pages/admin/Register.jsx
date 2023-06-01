@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import fs from 'fs';
+
 
 const RegisterView = () => {
   const [name, setName] = useState('');
