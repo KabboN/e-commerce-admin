@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "image": "/images/product1.jpg",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "image": "/images/product2.jpg",
+    "price": 29.99,
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "image": "/images/product3.jpg",
+    "price": 39.99,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "image": "/images/product4.jpg",
+    "price": 49.99,
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  }
+]

@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "address": "123 Main St, City",
+      "phone": "123-456-7890",
+      "image": "https://example.com/images/john.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "address": "456 Elm St, City",
+      "phone": "987-654-3210",
+      "image": "https://example.com/images/jane.jpg"
+    },
+    {
+      "id": 3,
+      "name": "David Johnson",
+      "email": "david@example.com",
+      "address": "789 Oak St, City",
+      "phone": "555-123-4567",
+      "image": "https://example.com/images/david.jpg"
+    }
+  ]
+  
